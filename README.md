@@ -12,8 +12,8 @@ lists, loops, functions, and basic data-processing operations.
 
 ## Output Screenshots
 
-![Program Output 1](Screenshot%202026-11-06%20123218%281%29.png)
+ Program Output 1
 
-![Program Output 2](Screenshot%202026-11-06%20123229%281%29.png)
+ Program Output 1
 
-![Program Output 3](Screenshot%202026-11-06%20123238%281%29.png)
+ Program Output 1
