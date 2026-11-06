@@ -1,4 +1,4 @@
-# Functional Treat
+# Functional Treat 🧩
 
 The **Data Analyzer and Transformer Program** is a Python-based
 menu-driven application that allows users to enter and manage 2D data.
